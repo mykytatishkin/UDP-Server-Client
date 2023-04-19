@@ -1,0 +1,15 @@
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\bin\Debug\net6.0\UDP.exe
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\bin\Debug\net6.0\UDP.deps.json
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\bin\Debug\net6.0\UDP.runtimeconfig.json
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\bin\Debug\net6.0\UDP.dll
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\bin\Debug\net6.0\UDP.pdb
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\UDP.csproj.AssemblyReference.cache
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\UDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\UDP.AssemblyInfoInputs.cache
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\UDP.AssemblyInfo.cs
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\UDP.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\UDP.dll
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\refint\UDP.dll
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\UDP.pdb
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\UDP.genruntimeconfig.cache
+C:\Users\Mykyta\source\repos\ClientServer_P05\UDP\obj\Debug\net6.0\ref\UDP.dll
